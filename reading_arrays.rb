@@ -38,3 +38,4 @@ def first_second_and_third_students
   student_name[1]
   student_name[2]
 end
+first_student_by_index
