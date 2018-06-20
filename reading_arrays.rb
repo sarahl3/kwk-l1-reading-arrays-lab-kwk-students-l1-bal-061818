@@ -6,7 +6,7 @@ student_names = [
   "Nicki Minaj",
   "Rihanna"
 ]
-
+student_names[0]
 
 
 def first_student_by_index
