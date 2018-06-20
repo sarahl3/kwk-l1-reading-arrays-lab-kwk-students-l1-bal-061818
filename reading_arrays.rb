@@ -1,4 +1,4 @@
-STUDENT_NAMES = [
+student_names = [
   "Adele",
   "Beyoncé",
   "Cardi B",
@@ -6,6 +6,7 @@ STUDENT_NAMES = [
   "Nicki Minaj",
   "Rihanna"
 ]
+
 
 
 def first_student_by_index
